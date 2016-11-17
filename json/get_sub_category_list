@@ -1,0 +1,39 @@
+{
+	"largeImagePath": "http://www.audacityit.com/categoryImages/",
+	"thumbImagePath": "http://www.audacityit.com/categoryImages/thumb/",
+	"data": [
+		{
+			"id": "1350",
+			"title": "Compañias"
+		},
+		{
+			"id": "772",
+			"title": "Donde Comer"
+		},
+		{
+			"id": "774",
+			"title": "Vehiculo"
+		},
+		{
+			"id": "776",
+			"title": "Bancos"
+		},
+		{
+			"id": "779",
+			"title": "Hotel"
+		},
+		{
+			"id": "780",
+			"title": "Joyerias"
+		},
+		{
+			"id": "782",
+			"title": "Viajes"
+		},
+		{
+        			"id": "783",
+        			"title": "Educacion"
+        			"item_type": "Educacion"
+        		}
+        	]
+        }
