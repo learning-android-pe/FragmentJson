@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements ResultListCallbac
     }
 
     private void showMessage(String message){
-        Toast.makeText(this, message,Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, message,Toast.LENGTH_LONG).show();
     }
     @Override
     public void onResultItemSelected(Item item) {
